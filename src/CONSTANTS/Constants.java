@@ -13,11 +13,11 @@ import java.sql.Date;
  */
 public class Constants {
         //CLIENT
-    public static final int NO_CLIENT = 26;
+    public static final int NO_CLIENT = 1008;
     public static final String NAME_CLIENT = "James Bond";
-    public static final String NEW_NAME_CLIENT = "James Bond";
+    public static final String NEW_NAME_CLIENT = "James Bond1";
     public static final String TELE_CLIENT = "514-657-8898";
-    public static final int ID_CLIENT = 25;
+    public static final int ID_CLIENT = 28;
     
         //ORDER
     public static final int NO_ORDER = 69;

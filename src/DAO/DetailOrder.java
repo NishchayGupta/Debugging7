@@ -35,5 +35,4 @@ public class DetailOrder {
     public void insertDetailOrder(int NO_DETAIL_ORDER, int NO_ITEM_DETAILORDER, int QUANTITY_DO) {
         
     }
-    
 }
